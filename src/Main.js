@@ -10,7 +10,7 @@ import Links from "./content/Links";
 
 function Main() {
     return (
-        <Box display={"flex"} flexDir={"column"} mx={["1em", "3em", "auto"]} bg={"black"} w={["95vw", "70vw", "33vw"]} minH={"150vh"}>
+        <Box display={"flex"} flexDir={"column"} mx={["1em", "3em", "auto"]} bg={"black"} w={["100", "70vw", "33vw"]} minH={"150vh"}>
 
             <Header/>
             <About/>

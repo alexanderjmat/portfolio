@@ -5,8 +5,8 @@ import Nav from "./Nav";
 
 function Home() {
     return (
-        <Box display={"flex"} flexDir={"column"} bg={"black"} w={"100"}>
-            <Nav/>
+        <Box display={"flex"} flexDir={"column"} bg={"black"} w={"100%"} pt={"4em"}>
+            {/* <Nav/> */}
             <Main/>
         </Box>
     )
