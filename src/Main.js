@@ -1,7 +1,5 @@
 // src/Homepage.js
-import { Box, Flex, Text, IconButton, useColorMode } from "@chakra-ui/react";
-import { FaGithub, FaLinkedin, FaSun, FaMoon } from "react-icons/fa";
-import Nav from "./Nav";
+import { Box } from "@chakra-ui/react";
 import Header from "./content/Header";
 import About from "./content/About";
 import Experience from "./content/Experience";

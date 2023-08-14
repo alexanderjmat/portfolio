@@ -1,5 +1,4 @@
-import { ChakraProvider, CSSReset, Box, useColorMode, Text, Heading, Link } from "@chakra-ui/react";
-import { SiBuymeacoffee } from "react-icons/si"
+import { Box, Text, Heading, Link } from "@chakra-ui/react";
 import profile from "../pictures/headshot.png"
 
 function Header() {

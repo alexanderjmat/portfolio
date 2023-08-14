@@ -1,4 +1,4 @@
-import { ChakraProvider, CSSReset, Box, useColorMode } from "@chakra-ui/react";
+import { ChakraProvider } from "@chakra-ui/react";
 import { Route, Routes, BrowserRouter } from "react-router-dom";
 
 import Home from "./Home";
