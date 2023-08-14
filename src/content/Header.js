@@ -5,7 +5,7 @@ function Header() {
     return (
         <Box display={["flex", "flex", "row"]} flexDir={["column", "column", "row"]} height={"auto"} alignItems={"center"} >
             <Box mt={["2em", "1em", "0"]} >
-                <img alt="picture of me" height={["100px", "125px", "150px"]} width={["100px", "125px", "150px"]} src={profile} />
+                <img alt="me" height={["100px", "125px", "150px"]} width={["100px", "125px", "150px"]} src={profile} />
             </Box>
             <Box display={"flex"} flexDir={"column"} mt={["0.5em", "0.5em", "2em"]} textAlign={["center", "center", "left"]} ml={["0", "0", "2em"]}>
                 <Heading fontSize={"3xl"} color={"white"} fontWeight={"bold"}>AJ Matula</Heading>
