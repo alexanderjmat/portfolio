@@ -10,7 +10,7 @@ function About() {
             </Heading>
             <Box>
                 <Text color={"gray.300"} width={["100", "33vw"]}>
-                    Hey everyone! My name is AJ and I love to build and use software applications. I think the 21st century has inspired an overhaul in the meaning of artistry, one of which is that programming has arguably become the most relevant creative practice on a global scale. When I'm not coding I like to play my piano, read and write, and daydream about totally unrealistic things.
+                    Hey everyone! My name is AJ and I love to build and use software applications. I think the 21st century has inspired an overhaul in the meaning of artistry, one of which is that programming has arguably become the most relevant creative practice on a global scale. When I'm not coding I like to <Link href="https://www.youtube.com/watch?v=64ZAMjztXtE">play my piano</Link>, <Link href="https://medium.com/@alexanderjmatula">read and write</Link>, and daydream about totally unrealistic things.
                 </Text>
             </Box>
 

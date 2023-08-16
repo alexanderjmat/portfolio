@@ -13,9 +13,9 @@ function Links() {
 
                 </Box>
                 <Box display={"flex"} flexDir={"column"} pl={["8em", "8em", "9em"]} >
-                    <Text fontSize={"xl"}>@alexanderjm ⬅️</Text>
-                    <Text fontSize={"xl"}>@aj_matula ⬅️</Text>
-                    <Text fontSize={"xl"}>@aj-matula ⬅️</Text>
+                    <Link href="https://github.com/alexanderjmat"><Text fontSize={"xl"}>@alexanderjm ⬅️</Text></Link>
+                    <Link href="https://www.linkedin.com/in/aj-matula/"><Text fontSize={"xl"}>@aj_matula ⬅️</Text></Link>
+                    <Link href="https://twitter.com/aj_matula"><Text fontSize={"xl"}>@aj-matula ⬅️</Text></Link>
 
                 </Box>
             </Box>
